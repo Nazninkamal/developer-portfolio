@@ -8,7 +8,7 @@ h1{
 .oranged-color{
     color: orange;
 }
-section{
+.flexiabe-container{
     display: flex;
     margin-bottom: 150px;
 }
